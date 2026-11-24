@@ -4,7 +4,6 @@
 
 A fan-made, open-source rebuild of Gilla, the VR monkey game for Meta Quest. Built in Unity 6 with Photon Fusion.
 
-> [!NOTE]
 > Unofficial fan project. Not affiliated with or endorsed by the original Gilla developers.
 
 ## $\color{#E0262F}{\textsf{The game}}$
