@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
+  m_Name: Android
+  m_EditorClassIdentifier:
+  features:
+  - {fileID: 11400000, guid: 00a0392bd5794594ea3d9a1f482e08b7, type: 2}
+  - {fileID: 11400000, guid: faf2c72ffe7242f4699e8d733786b502, type: 2}
+  - {fileID: 11400000, guid: 2208cf8a2a696f941b4b6ddcf78a9ee6, type: 2}
+  - {fileID: 11400000, guid: 802c2488ab5a2dd449565870c4735c9b, type: 2}
+  - {fileID: 11400000, guid: aa473b89be80bf24d840f2aaebaf276b, type: 2}
+  - {fileID: 11400000, guid: 58c108a586ca9c941b6310b2b474d33b, type: 2}
+  - {fileID: 11400000, guid: 1ce1cdcdcbc9e6747909f5979e46143c, type: 2}
+  - {fileID: 11400000, guid: ccfad9289d6796c43ae440a8b6e0311f, type: 2}
+  - {fileID: 11400000, guid: 4e033a1f2d65c6a458d524ef85d0651c, type: 2}
+  - {fileID: 11400000, guid: 209364dd0fb165e43a2a3ecf2663038d, type: 2}
+  - {fileID: 11400000, guid: aa9a545a7a4838b449801a05a280ff7c, type: 2}
+  - {fileID: 11400000, guid: 1e0a02ec71fa91f40a802f359b083f40, type: 2}
+  - {fileID: 11400000, guid: 13014a138ef50954d98c09260d1d8190, type: 2}
+  - {fileID: 11400000, guid: ddda0c7a80464ee4784123c7a4ae739e, type: 2}
+  - {fileID: 11400000, guid: 87cb611d2b4b7b24f993a90d1f040bbc, type: 2}
+  - {fileID: 11400000, guid: b995d78e80bd5444cb69af4f9fb8d4c6, type: 2}
+  - {fileID: 11400000, guid: 8bd3623260db8d846b05397a6872e9b4, type: 2}
+  - {fileID: 11400000, guid: bdc3fbb04c0ffef47b6dcc998bc906a6, type: 2}
+  - {fileID: 11400000, guid: 2ced4ecb949509944a1f88e8a47a7789, type: 2}
+  - {fileID: 11400000, guid: e0be65e980077c0409ee2810949da05a, type: 2}
+  - {fileID: 11400000, guid: 724c52051262ec84386db491ea8abe09, type: 2}
+  - {fileID: 11400000, guid: 73dc363a169b25146ad4feac6244bc3c, type: 2}
+  customLoaderName:
+  m_renderMode: 1
+  m_latencyOptimization: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
+  m_depthSubmissionMode: 0
+  m_spacewarpMotionVectorTextureFormat: 0
+  m_optimizeBufferDiscards: 1
+  m_symmetricProjection: 0
+  m_optimizeMultiviewRenderRegions: 0
+  m_multiviewRenderRegionsOptimizationMode: 0
+  m_hasMigratedMultiviewRenderRegionSetting: 1
+  m_foveatedRenderingApi: 1
+  m_useOpenXRPredictedTime: 1

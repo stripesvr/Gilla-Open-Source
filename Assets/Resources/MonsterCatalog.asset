@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3215a12d6643c92c6196b582ddf653c2, type: 3}
+  m_Name: MonsterCatalog
+  m_EditorClassIdentifier:
+  monsters:
+  - name: Skull3
+    label: SKULL
+    prefab: {fileID: 1709254077376921, guid: 3c112a7a72bc6d947b67ec942e0eefa3, type: 2}
+    eyeHeight: 1.7079544
+    reach: 1.0892856
+    walkSpeed: 1.45
+    runSpeed: 6.9
+    legs: 1
+    grabs: 1
+    firstPersonMesh: {fileID: 4300000, guid: 730087a5449e9e443936665d1b0edc1f, type: 2}
+    palmL: {x: -1.1269942E-06, y: 0.009746715, z: 0.99995255}
+    palmR: {x: 1.7941766E-06, y: 0.009746075, z: 0.9999524}
+    hangs: 0
+    onArms: 0
+    playedSize: 1
+  - name: Stare3
+    label: BITER
+    prefab: {fileID: 1709254077376921, guid: 91256153714dd634184c813a90c326ba, type: 2}
+    eyeHeight: 0.1330384
+    reach: 0.06609428
+    walkSpeed: 0.8
+    runSpeed: 4.6
+    legs: 0
+    grabs: 0
+    firstPersonMesh: {fileID: 4300000, guid: 1fab7c1bd9b74a94f9fc406d10e8c4e6, type: 2}
+    palmL: {x: 1.5646219E-07, y: 0.016663373, z: 0.99986124}
+    palmR: {x: -4.917383E-07, y: 0.016664386, z: 0.99986124}
+    hangs: 0
+    onArms: 1
+    playedSize: 1
+  - name: Weaver
+    label: WEAVER
+    prefab: {fileID: 1709254077376921, guid: c570c65a4d90fa448b68f0295d8dd5ab, type: 2}
+    eyeHeight: 0.9203609
+    reach: 0.5961408
+    walkSpeed: 1.2
+    runSpeed: 7
+    legs: 0
+    grabs: 1
+    firstPersonMesh: {fileID: 4300000, guid: 7e193e75cda2d5b4cb84bd3d7877a6fe, type: 2}
+    palmL: {x: 0, y: 0, z: 0}
+    palmR: {x: 0, y: 0, z: 0}
+    hangs: 0
+    onArms: 0
+    playedSize: 1
+  - name: Gullet
+    label: GULLET
+    prefab: {fileID: 1709254077376921, guid: 9ab2f1271eb2f7a4d9124235eb194959, type: 2}
+    eyeHeight: 0.84356916
+    reach: 0.41663784
+    walkSpeed: 1.2
+    runSpeed: 6.2
+    legs: 0
+    grabs: 1
+    firstPersonMesh: {fileID: 4300000, guid: 3a145c92f7cb6c44dbec944e4b53d964, type: 2}
+    palmL: {x: 0, y: 0, z: 0}
+    palmR: {x: 0, y: 0, z: 0}
+    hangs: 0
+    onArms: 1
+    playedSize: 1
+  - name: Grinner
+    label: GRINNER
+    prefab: {fileID: 1709254077376921, guid: 37011a84a6d198942b646ac3c7cb65c7, type: 2}
+    eyeHeight: 1.0850004
+    reach: 0.9034826
+    walkSpeed: 1.1
+    runSpeed: 7
+    legs: 0
+    grabs: 1
+    firstPersonMesh: {fileID: 4300000, guid: 4a2259056ca3f37448e6b14666eed277, type: 2}
+    palmL: {x: 0.45493078, y: -0.0530262, z: -0.8889467}
+    palmR: {x: -0.45492488, y: -0.05302781, z: -0.88894993}
+    hangs: 1
+    onArms: 1
+    playedSize: 0.7
+  - name: Mako
+    label: MAKO
+    prefab: {fileID: 1709254077376921, guid: 4fb01a494e59022409cabb4b3bef4eff, type: 2}
+    eyeHeight: 1.3645185
+    reach: 1.6976072
+    walkSpeed: 1.6
+    runSpeed: 14
+    legs: 0
+    grabs: 1
+    firstPersonMesh: {fileID: 4300000, guid: f6234ace3805c9041a398d54708391ef, type: 2}
+    palmL: {x: 0.4549203, y: -0.05302632, z: -0.888952}
+    palmR: {x: -0.45492756, y: -0.053026974, z: -0.8889482}
+    hangs: 0
+    onArms: 1
+    playedSize: 1
+  - name: Mannequin
+    label: MANNEQUIN
+    prefab: {fileID: 1709254077376921, guid: db3e6eb98538c7346a4ead94ddfb48b1, type: 2}
+    eyeHeight: 2.7239327
+    reach: 0.44444448
+    walkSpeed: 1.2
+    runSpeed: 7.2
+    legs: 0
+    grabs: 1
+    firstPersonMesh: {fileID: 4300000, guid: 30cc922175c3a12458bbafd017374b54, type: 2}
+    palmL: {x: 0, y: 0, z: 0}
+    palmR: {x: 0, y: 0, z: 0}
+    hangs: 0
+    onArms: 0
+    playedSize: 1
+  - name: Angel
+    label: ANGEL
+    prefab: {fileID: 1709254077376921, guid: 8eeb3bdd63ade1d448d12f763caf5db7, type: 2}
+    eyeHeight: 1.5500005
+    reach: 1.2906895
+    walkSpeed: 1.1
+    runSpeed: 12
+    legs: 0
+    grabs: 1
+    firstPersonMesh: {fileID: 4300000, guid: 6e8f94cd2f33f244a947d5177b63c780, type: 2}
+    palmL: {x: 0.45493078, y: -0.0530262, z: -0.8889467}
+    palmR: {x: -0.45492488, y: -0.05302781, z: -0.88894993}
+    hangs: 0
+    onArms: 1
+    playedSize: 1

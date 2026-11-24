@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: DreadPost
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 8a897db9935078a46ba30eccd35ebd40, type: 2}
+  - {fileID: 11400000, guid: d00b462886ef75b4f97a84a8d393df96, type: 2}
+  - {fileID: 11400000, guid: 8240293af54de38488bbd6e1f76c42e7, type: 2}
+  - {fileID: 11400000, guid: 6483858aaef962e4fb33614542d318be, type: 2}

@@ -1,0 +1,837 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6891713f16adcab5e4d0bbd6fd33ff8, type: 3}
+  m_Name: CosmeticCatalog
+  m_EditorClassIdentifier:
+  cosmetics:
+  - name: PropellerCap
+    label: PROPELLER CAP
+    slot: 0
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 08f12fd63177da34e99afc6ad2ff0766, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: PartyHat
+    label: PARTY HAT
+    slot: 0
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: 7ce802ddb49b5d14292da1ae664aa477, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: TopHat
+    label: TOP HAT
+    slot: 0
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: f431ff8d09c1c5044bf4d6d3a7ea8fe6, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Crown
+    label: CROWN
+    slot: 0
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 9f051d71c863ecd48a1f10613b59f5db, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: CowboyHat
+    label: COWBOY HAT
+    slot: 0
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 935f9c483b4219149b830410d79becb9, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BaseballCap
+    label: BASEBALL CAP
+    slot: 0
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: c5318f4f49c20144a87c166fbee9d1eb, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: VikingHelmet
+    label: VIKING HELMET
+    slot: 0
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: a15b6c3ceff41414e88169cf10b8460c, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: ChefHat
+    label: CHEF HAT
+    slot: 0
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: b50cbd8d16f81fb479103c9195454b45, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Beanie
+    label: BEANIE
+    slot: 0
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: 482666959677da84ab5eb88985111002, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Shades
+    label: SHADES
+    slot: 1
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: 490e29ed9c04ef34f9ff5f6c52583562, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BunnyEars
+    label: BUNNY EARS
+    slot: 0
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 288c3dda5d44463419b305ef3116a69c, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: WizardHat
+    label: WIZARD HAT
+    slot: 0
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: a83952d56ac4f3b4294bca83a1e85e27, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BowTie
+    label: BOW TIE
+    slot: 3
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: 1defde94972acce499dabb8a0353abe0, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Necktie
+    label: NECKTIE
+    slot: 3
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: d633dfe27b2bca14d9bb887f262a1f8b, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: GoldChain
+    label: GOLD CHAIN
+    slot: 3
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 0847ee362341aa4439c89206e8c87191, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Scarf
+    label: SCARF
+    slot: 3
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 447adb326aa325446be9c0b7563350f3, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Bandana
+    label: BANDANA
+    slot: 3
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: 8a42c50d37d58d84e9a40a7abcb95686, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Backpack
+    label: BACKPACK
+    slot: 5
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: ee789b16c459b93478180fae3c9ee3ff, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: AngelWings
+    label: ANGEL WINGS
+    slot: 5
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 463bac744d3a60a40b2b566f132543e3, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BatWings
+    label: BAT WINGS
+    slot: 5
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: bfd240f87d279fc479e1802a1573afe7, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Cape
+    label: CAPE
+    slot: 5
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 85dda4f51d919f04583072b010e76bf1, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Jetpack
+    label: JETPACK
+    slot: 5
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 18fc6286d177dc44db965de14e66d90a, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: TurtleShell
+    label: TURTLE SHELL
+    slot: 5
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 66f7ba6e7424f5c4d833a75fdc1fb5a6, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BoxingGloves
+    label: BOXING GLOVES
+    slot: 4
+    price: 1000
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: FoamFinger
+    label: FOAM FINGER
+    slot: 4
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: SpikedBracelet
+    label: SPIKED BRACELET
+    slot: 4
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Sweatband
+    label: SWEATBAND
+    slot: 4
+    price: 500
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: GoldBangles
+    label: GOLD BANGLES
+    slot: 4
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: TinyPupils
+    label: TINY PUPILS
+    slot: 2
+    price: 500
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 104527c8bdd3ffa48b3ed819fddef22c, type: 3}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BigPupils
+    label: BIG PUPILS
+    slot: 2
+    price: 500
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: a6e6846f128879d43b82d5845be48760, type: 3}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BlueEyes
+    label: BLUE EYES
+    slot: 2
+    price: 500
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: e77afaba474d4b548ab2ba5cddf1b400, type: 3}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: GreenEyes
+    label: GREEN EYES
+    slot: 2
+    price: 500
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 9dffc9295faa69e4ca02f277573f9179, type: 3}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: GoldEyes
+    label: GOLD EYES
+    slot: 2
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 01b622ab93839fb4790117dd65513047, type: 3}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: RedEyes
+    label: RED EYES
+    slot: 2
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 64474429ee96aa24ab00b9b139f66c17, type: 3}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: BigBlueEyes
+    label: BIG BLUE EYES
+    slot: 2
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 8862d5dde017bac4e832a9ff6193eb76, type: 3}
+    eyeScale: 1.35
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: PugEyes
+    label: PUG EYES
+    slot: 2
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 103dd6d5d0f8ea841bd6d61fad16e79b, type: 3}
+    eyeScale: 1.45
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: ReaperSkin
+    label: REAPER
+    slot: 6
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: b2435527cafea9545bb34f203a029783, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: ReaperHood
+    label: REAPER HOOD
+    slot: 0
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: c95d43ca570c1614cafc016032a30ea6, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: SoulScythe
+    label: SOUL SCYTHE
+    slot: 7
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 81042d2f2ed50e54f84e30712cf4c966, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: VoidWalkerSkin
+    label: VOID WALKER
+    slot: 6
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: ca79bbd4b9307294ba90f221af5b8074, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: OrbitCrown
+    label: ORBIT CROWN
+    slot: 0
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: b27cba7acb591224fb33ba2ca0e0556e, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: BlackHole
+    label: BLACK HOLE
+    slot: 7
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 889561ff62330b04f9585c9d6eb68d53, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: DragonSkin
+    label: DRAGON
+    slot: 6
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 4e101efb87100ea4594e72d997d3f381, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: DragonHorns
+    label: DRAGON HORNS
+    slot: 0
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 73f22c94aa3e0f945850f369a62ecc29, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: DragonWings
+    label: DRAGON WINGS
+    slot: 5
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: f7011bc42b8f89e4490701bf8c344977, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: DragonTail
+    label: DRAGON TAIL
+    slot: 3
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: fb05aba90d3af4941942b2b9d96de364, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: OGBadge
+    label: OG BADGE
+    slot: 3
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 1f044f5fac9021a4e8edf9f252ed41b1, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: OGGlasses
+    label: OG GLASSES
+    slot: 1
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: d51727694fcecd84a867620641cbfbb4, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: OGPuppets
+    label: OG PUPPETS
+    slot: 4
+    price: 1000
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: VIPSuit
+    label: VIP SUIT
+    slot: 6
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: ee84810fcfc4cbe42a33c86067368856, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: VIPFedora
+    label: VIP FEDORA
+    slot: 0
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: feb5a777ef47e2c49afd1d8bbaab30d0, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: VIPTie
+    label: VIP TIE
+    slot: 3
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 674034b6dea5b304ba89f120128447aa, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith: VIPSuit
+    retired: 1
+    shutsMouth: 0
+  - name: VIPCuffs
+    label: VIP CUFFS
+    slot: 4
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: OGMonkey
+    label: OG MONKEY
+    slot: 7
+    price: 1000
+    prefab: {fileID: 1709254077376921, guid: 2c8940703744b0f488b9ab9dadde9194, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: CoconutHat
+    label: COCONUT HAT
+    slot: 0
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 0abbe0c6263796c4882a0e17336c3ad2, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: Pacifier
+    label: PACIFIER
+    slot: 1
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: fd3d80b28779a87448fe2e5e96ead632, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 1
+  - name: Diaper
+    label: DIAPER
+    slot: 3
+    price: 500
+    prefab: {fileID: 1709254077376921, guid: 6323c3b7d632d134fbd98811a43e316e, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  - name: VIPEyes
+    label: VIP EYES
+    slot: 2
+    price: 750
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 9818d247cc0dba54b85879741e0f29ba, type: 3}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 2100000, guid: 3125e2fef1e0d7a4bab2a23fba0f9d4f, type: 2}
+    comesWith: VIPSuit
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: HardHat
+    label: HARD HAT
+    slot: 0
+    price: 750
+    prefab: {fileID: 1709254077376921, guid: 339c7aebea658c84d83f4058da1333c5, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: DerpEyes
+    label: DERP EYES
+    slot: 2
+    price: 500
+    prefab: {fileID: 0}
+    eyeTexture: {fileID: 2800000, guid: 2064aa21f9a02734fb4ab383fbdb470c, type: 3}
+    eyeScale: 1
+    eyeTurn: 40
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 0
+    shutsMouth: 0
+  - name: SamuraiHat
+    label: SAMURAI HAT
+    slot: 0
+    price: 0
+    prefab: {fileID: 1709254077376921, guid: ff09dd4044867f74aaf47e90ffb01026, type: 2}
+    eyeTexture: {fileID: 0}
+    eyeScale: 1
+    eyeTurn: 0
+    eyeMaterial: {fileID: 0}
+    comesWith:
+    wornWith:
+    retired: 1
+    shutsMouth: 0
+  bundles:
+  - name: OGPack
+    label: OG PACK
+    items:
+    - OGBadge
+    - OGGlasses
+    - OGMonkey
+    price: 0
+    coins: 2500
+    realMoney: 1
+    sku: gilla_bundle_og
+    usd: $4.99
+    tag:
+    xpBoost: 0
+    dailyCoins: 0
+  - name: VIP
+    label: VIP
+    items:
+    - VIPSuit
+    - VIPFedora
+    - VIPEyes
+    price: 0
+    coins: 5000
+    realMoney: 1
+    sku: gilla_bundle_vip
+    usd: $8.99
+    tag: VipTag
+    xpBoost: 1
+    dailyCoins: 150

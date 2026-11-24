@@ -1,0 +1,13 @@
+NOVEMBER 4 UPDATE
+# NEW
+- A leaderboard on this wall: everyone in your room, with a MUTE and a REPORT key for each of them.
+- The computer has a CODE page: type a code to join that room. Nothing typed takes you to a public room with players in it.
+- The shop's three rooms: COSMETICS, LIMITED and BUNDLES.
+- As a monster, make a fist and punch anyone, held or not. They go down.
+- DON'T SPLASH: one level a round, and the Mako's faster every round.
+- There's more past the locked door. Something lives down there.
+
+# FIXES
+- Monsters no longer stand still listening to you talk through a wall.
+- Your keycard is your own, and the vault's things don't turn up twice.
+- A sharper picture.

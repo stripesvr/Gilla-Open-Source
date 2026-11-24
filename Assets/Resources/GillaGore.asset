@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e2a9b08084d9c3a27aaaeb0a1064d8, type: 3}
+  m_Name: GillaGore
+  m_EditorClassIdentifier:
+  wound: {fileID: 2100000, guid: 8b40a551eaefbd74796ae1ee0ff60b14, type: 2}
+  bone: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+  pieces:
+  - bone: head
+    section: 0
+    mesh: {fileID: 4300000, guid: 6468d78e49251064d836a138a5a7c63d, type: 2}
+    material: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+    gone: 0.75
+  - bone: neck
+    section: 0
+    mesh: {fileID: 4300000, guid: 85fdf0773c2d62f45aef595514fb7957, type: 2}
+    material: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+    gone: 0.75
+  - bone: spine
+    section: 1
+    mesh: {fileID: 4300000, guid: f2760054e9c2cb442b8a3125a4311457, type: 2}
+    material: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+    gone: 0.58
+  - bone: spine
+    section: 1
+    mesh: {fileID: 4300000, guid: b33c1b02bf84c594b88723660152917c, type: 2}
+    material: {fileID: 2100000, guid: 59f7d30ae1848434aa91e85dfef39c13, type: 2}
+    gone: 0.5
+  - bone: upperarm_L
+    section: 2
+    mesh: {fileID: 4300000, guid: 6bce1d83223a60042bdd6bbb6b45dd87, type: 2}
+    material: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+    gone: 0.5
+  - bone: lowerarm_L
+    section: 2
+    mesh: {fileID: 4300000, guid: eee88fc7925585049aaeb5032e950c4e, type: 2}
+    material: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+    gone: 0.5
+  - bone: upperarm_R
+    section: 3
+    mesh: {fileID: 4300000, guid: 57e03a26771d96643a83d1a9ede559e4, type: 2}
+    material: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+    gone: 0.5
+  - bone: lowerarm_R
+    section: 3
+    mesh: {fileID: 4300000, guid: 9dbab75d2b35eaf46b6e99487f873a27, type: 2}
+    material: {fileID: 2100000, guid: 1917252c9584def409df1195bca2be6b, type: 2}
+    gone: 0.5
+  chunk: {fileID: 4300000, guid: 94b7988f7fd172e40a03c446bfbeacdf, type: 2}
+  chunkMaterial: {fileID: 2100000, guid: 9406ce4f3bc529340940b255aa56092d, type: 2}
+  chipMaterial: {fileID: 2100000, guid: 48bde3f12d380fb46bf854c2c16f4642, type: 2}
+  lump: {fileID: 2100000, guid: f1f22a1af5e02304e831bd23de80eeca, type: 2}
+  spray: {fileID: 2100000, guid: 9d386e1233f58ef4e8e58aa2bac5f298, type: 2}
+  strand: {fileID: 2100000, guid: c0e4111e1a7844e41b12d3c178657d2f, type: 2}
+  splat: {fileID: 2100000, guid: 877dacfc4baa1ee48a0237dc71262201, type: 2}
+  stain: {fileID: 2100000, guid: 22d567c7dfcfa0d40863b771a59f4691, type: 2}
+  punchSounds:
+  - {fileID: 8300000, guid: 9fb99565e621d8047ba7c92d7ffc15db, type: 3}
+  - {fileID: 8300000, guid: 4f25d3491a6efc74680b8ef2e3e515ef, type: 3}
