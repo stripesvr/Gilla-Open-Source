@@ -13,7 +13,7 @@ A fan-made, open-source rebuild of Gilla, the VR monkey game for Meta Quest. Bui
 - $\color{#E0262F}{\textsf{Gold{,} bolts and torn-off body parts}}$ you can grab and throw
 - $\color{#E0262F}{\textsf{Doors}}$ that crush your arms off
 - $\color{#E0262F}{\textsf{A shop}}$ with colours, cosmetics and a size menu
-- $\color{#E0262F}{\textsf{An in-game computer}}$
+- $\color{#E0262F}{\textsf{An in-game computer}}$ join codes, change your color, and more!
 - $\color{#E0262F}{\textsf{A jukebox}}$ you can carry around that plays songs for the whole room
 
 ## $\color{#E0262F}{\textsf{Getting started}}$
