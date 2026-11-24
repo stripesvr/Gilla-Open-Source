@@ -8,8 +8,6 @@ A fan-made, open-source rebuild of Gilla, the VR monkey game for Meta Quest. Bui
 
 ## $\color{#E0262F}{\textsf{The game}}$
 
-You play as an ape in a shared world: climb, grab, throw and fight, and team up with or turn on other players.
-
 - $\color{#E0262F}{\textsf{Monsters}}$ that hunt, grab and tear players apart, and you can play as one
 - $\color{#E0262F}{\textsf{Game modes}}$, including Be The Monster and Don't Splash
 - $\color{#E0262F}{\textsf{Gold{,} bolts and torn-off body parts}}$ you can grab and throw
