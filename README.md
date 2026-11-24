@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/banner.png" alt="Gilla Redux" width="100%">
+  <img src=".github/gilla-redux-banner.png" alt="Gilla Redux" width="100%">
 </p>
 
 A fan-made, open-source rebuild of Gilla, the VR monkey game for Meta Quest. Built in Unity 6 with Photon Fusion.
