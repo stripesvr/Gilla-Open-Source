@@ -8,7 +8,7 @@
   <img src="https://gilla-stat-tiles.wannabeweirdguy.workers.dev/views.svg" alt="Views" height="68">
 </p>
 
-## $\color{#D97757}{\textsf{The game}}$
+## $\color{#D97757}{\textsf{Project Summary}}$
 
 - $\color{#D97757}{\textsf{Monsters}}$ that hunt, grab and tear players apart, and you can play as one
 - $\color{#D97757}{\textsf{Game modes}}$, including Be The Monster and Don't Splash
