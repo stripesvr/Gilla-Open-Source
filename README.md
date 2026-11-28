@@ -2,6 +2,10 @@
   <img src=".github/claudes-plan-banner.png" alt="Claudes Plan" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/stripesvr/Gilla-Open-Source/stargazers"><img src="https://img.shields.io/github/stars/stripesvr/Gilla-Open-Source?style=for-the-badge&logo=github&label=Stars&color=D97757&labelColor=141110" alt="GitHub stars"></a>
+</p>
+
 ## $\color{#D97757}{\textsf{The game}}$
 
 - $\color{#D97757}{\textsf{Monsters}}$ that hunt, grab and tear players apart, and you can play as one
