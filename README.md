@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stripesvr/Gilla-Open-Source/stargazers"><img src="https://raw.githubusercontent.com/stripesvr/Gilla-Open-Source/badges/stars.svg" alt="Stars" height="68"></a>
-  <a href="https://github.com/stripesvr/Gilla-Open-Source/forks"><img src="https://raw.githubusercontent.com/stripesvr/Gilla-Open-Source/badges/forks.svg" alt="Forks" height="68"></a>
-  <img src="https://raw.githubusercontent.com/stripesvr/Gilla-Open-Source/badges/views.svg" alt="Views" height="68">
-  <img src="https://hits.sh/github.com/stripesvr/Gilla-Open-Source.svg" alt="" width="1" height="1">
+  <a href="https://github.com/stripesvr/Gilla-Open-Source/stargazers"><img src="https://gilla-stat-tiles.wannabeweirdguy.workers.dev/stars.svg" alt="Stars" height="68"></a>
+  <a href="https://github.com/stripesvr/Gilla-Open-Source/forks"><img src="https://gilla-stat-tiles.wannabeweirdguy.workers.dev/forks.svg" alt="Forks" height="68"></a>
+  <img src="https://gilla-stat-tiles.wannabeweirdguy.workers.dev/views.svg" alt="Views" height="68">
 </p>
 
 ## $\color{#D97757}{\textsf{The game}}$
