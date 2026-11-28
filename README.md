@@ -2,9 +2,7 @@
   <img src=".github/gilla-redux-banner.png" alt="Gilla Redux" width="100%">
 </p>
 
-A fan-made, open-source rebuild of Gilla, the VR monkey game for Meta Quest. Built in Unity 6 with Photon Fusion.
-
-> Unofficial fan project. Not affiliated with or endorsed by the original Gilla developers.
+open-source reverse engineer of Gilla. Built in Unity 6 with Photon Fusion.
 
 ## $\color{#E0262F}{\textsf{The game}}$
 
