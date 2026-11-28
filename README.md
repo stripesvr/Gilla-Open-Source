@@ -2,8 +2,6 @@
   <img src=".github/claudes-plan-banner.png" alt="Claudes Plan" width="100%">
 </p>
 
-open-source reverse engineer of Gilla. Built in Unity 6 with Photon Fusion.
-
 ## $\color{#D97757}{\textsf{The game}}$
 
 - $\color{#D97757}{\textsf{Monsters}}$ that hunt, grab and tear players apart, and you can play as one
