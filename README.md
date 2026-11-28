@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/stripesvr/Gilla-Open-Source/stargazers"><img src="https://img.shields.io/github/stars/stripesvr/Gilla-Open-Source?style=for-the-badge&logo=github&label=Stars&color=D97757&labelColor=141110" alt="GitHub stars"></a>
+  <a href="https://github.com/stripesvr/Gilla-Open-Source/forks"><img src="https://img.shields.io/github/forks/stripesvr/Gilla-Open-Source?style=for-the-badge&color=D97757&labelColor=141110&logo=github&label=Forks" alt="GitHub forks"></a>
+  <img src="https://hits.sh/github.com/stripesvr/Gilla-Open-Source.svg?style=for-the-badge&color=D97757&labelColor=141110&label=Views&logo=github" alt="Views">
 </p>
 
 ## $\color{#D97757}{\textsf{The game}}$
